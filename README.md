@@ -39,3 +39,10 @@ This project is about road accidents, it focuses on developing a dynamic dashboa
 ## Dashboard Snapshot (PowerBI Service)
 
 ![Image](https://github.com/user-attachments/assets/9b835b82-532e-45d4-a924-a4d14f4c75ae)
+
+## Source & Video Tutorial
+
+This project was developed as a tutorial by **DATA TUTORIALS**.
+You can find a video walkthrough and detailed explanation of this project on their YouTube Channel:
+
+* **YouTube Video Link:** [(https://www.youtube.com/watch?v=Hn9f13uoLAQ&t=205s)]
